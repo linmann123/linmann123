@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋! I'm Lin Mann Htet Oo (Lin Mann)
 
-<!--
-**linmann123/linmann123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Currently:** Self-taught Computer Science Student
 
-Here are some ideas to get you started:
+🛠️ **Learning:** AI, Machine Learning, and Full-Stack Mastery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **Deep Interest:** NLP & AI-Driven Hardware 
+
+🚀 **Mission:** Solving everyday problems and making lives easier through technology
+
+👯 **Looking to collaborate on:** Open-source Burmese AI tools and Python projects
+
+
+<img align="right" width="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
+---
+
+### 🔥 Tactical Consistency:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=linmann123&show_icons=true&theme=tokyonight" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=linmann123&theme=tokyonight" height="170" />
+</p>
+
+---
+
+### 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+---
+
+### 📊 GitHub Stats:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linmann123&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lin-mann-28354a373)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/linmann)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_LINK_HERE)
+
+---
+### ✍️ Random Dev Quote
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/shravanj/quotes-github-readme)
+
+---
+
