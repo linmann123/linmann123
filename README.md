@@ -52,4 +52,4 @@
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/shravanj/quotes-github-readme)
 
 ---
-
+![Snake animation](https://raw.githubusercontent.com/linmann123/linmann123/output/github-contribution-grid-snake.svg)
