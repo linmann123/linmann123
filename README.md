@@ -1,4 +1,6 @@
-# Hi 👋! I'm Lin Mann Htet Oo (Lin Mann)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B!+I'm+Lin+Mann+Htet+Oo;AI+%26+Full+Stack+Developer;Machine+Learning+Engineer;Growth+%26+Revenue+Operations" />
+</p>
 
 🌱 **Currently:** Self-taught Computer Science Student
 
