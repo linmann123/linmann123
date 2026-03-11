@@ -13,7 +13,7 @@
 👯 **Looking to collaborate on:** Open-source Burmese AI tools and Python projects
 
 
-<img align="right" width="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" width="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFjZzJyd3lrZGpra25tejV3NGJuOHpkZjgxeXJoMWR2MDJuNXVpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif"> 
 
 ---
 
