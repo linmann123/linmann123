@@ -52,3 +52,9 @@
 
 ---
 ![Snake animation](https://raw.githubusercontent.com/linmann123/linmann123/output/github-contribution-grid-snake.svg)
+
+---
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=linmann123&theme=react-dark&area=true&color=007bff&bg_color=000000&line=007bff)](https://github.com/ashutosh048/github-readme-activity-graph)
+
+---
