@@ -58,3 +58,5 @@
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=linmann123&theme=react-dark&area=true&color=007bff&bg_color=000000&line=007bff)](https://github.com/ashutosh048/github-readme-activity-graph)
 
 ---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,800080,191970&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=60)
