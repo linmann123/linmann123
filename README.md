@@ -12,10 +12,6 @@
 
 👯 **Looking to collaborate on:** Open-source Burmese AI tools and Python projects
 
-<p align="center">
-  <img src="https://files.oaiusercontent.com/file-DAn6T628T7HId8h6543D7A?se=2024-10-18T10%3A23%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D172f3e80-d12a-4289-9a2c-96b567a57a14.gif&sig=Ciz2z7G5T9%2B2f29n7xK556K6M8W67Z725/p9o7Z08/U%3D" width="400" alt="AI Matrix Sphere">
-</p>
-
 ---
 
 ### 🔥 Tactical Consistency:
