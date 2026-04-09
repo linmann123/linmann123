@@ -11,6 +11,7 @@
 🚀 **Mission:** Solving everyday problems and making lives easier through technology
 
 👯 **Looking to collaborate on:** Open-source Burmese AI tools and Python projects 
+![Matrix Glitch](https://github.com/user-attachments/assets/dfeef687-2fa7-4204-b432-a470de4d99d2)
 
 
 ---
