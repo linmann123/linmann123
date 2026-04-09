@@ -12,7 +12,8 @@
 
 👯 **Looking to collaborate on:** Open-source Burmese AI tools and Python projects 
 
-![My GIF](https://github.com/user-attachments/assets/7e0fee32-8615-46ca-80b1-50a3d02623b2)
+![Cyber Sphere](https://github.com/user-attachments/assets/794c7831-59a7-494a-b6a9-88e16b74fd14)
+
 
 ---
 
