@@ -10,7 +10,10 @@
 
 🚀 **Mission:** Solving everyday problems and making lives easier through technology
 
-👯 **Looking to collaborate on:** Open-source Burmese AI tools and Python projects
+👯 **Looking to collaborate on:** Open-source Burmese AI tools and Python projects 
+
+![6212485181ca055f760855d98d3ee4bc (1).gif](https://github.com/user-attachments/assets/7e0fee32-8615-46ca-80b1-50a3d02623b2)
+
 
 ---
 
